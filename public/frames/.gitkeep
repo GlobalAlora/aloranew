@@ -1,0 +1,3 @@
+# Placeholder for hero frames
+# Run ffmpeg to extract frames from your video source
+# ffmpeg -i input/source.mp4 -vf "fps=30,scale='min(1920,iw)':'-2':flags=lanczos" -q:v 3 public/frames/frame_%04d.jpg

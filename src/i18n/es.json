@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "services": "Servicios",
+    "solutions": "Soluciones",
+    "process": "Proceso",
+    "results": "Resultados",
+    "about": "Quiénes Somos",
+    "projects": "Proyectos",
+    "clients": "Clientes",
+    "testimonials": "Testimonios",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contacto"
+  },
+  "solutions": {
+    "webSystem": "Sistema Web",
+    "woocommerce": "WooCommerce",
+    "landing": "Landing",
+    "infoWeb": "Web Informativa",
+    "webImprovements": "Mejoras Web",
+    "ai": "IA"
+  },
+  "hero": {
+    "badge": "Tech B2B",
+    "tagline": "Tecnología que escala tu negocio",
+    "headline": "Tecnología que convierte.",
+    "subtitle": "Diseñamos, desarrollamos y escalamos soluciones digitales para empresas que no se conforman con lo promedio.",
+    "ctaPrimary": "Hablemos",
+    "ctaSecondary": "Ver servicios",
+    "trustedBy": "Confían en Alora"
+  },
+  "projects": {
+    "title": "Proyectos destacados",
+    "subtitle": "Trabajos que muestran nuestro estándar de calidad",
+    "tabs": {
+      "webSystem": "Sistema Web",
+      "woocommerce": "WooCommerce",
+      "landing": "Landing",
+      "infoWeb": "Web Informativa",
+      "webImprovements": "Mejoras Web",
+      "ai": "IA"
+    }
+  },
+  "about": {
+    "title": "Quiénes Somos",
+    "subtitle": "No somos solo desarrolladores. Somos un equipo multidisciplinario enfocado en construir soluciones digitales que funcionan en el mundo real.",
+    "paragraph1": "Trabajamos en la intersección entre negocio y tecnología: entendemos los objetivos comerciales antes de escribir una sola línea de código. Cada proyecto combina estrategia, diseño, desarrollo y control de calidad para asegurar que lo que se entrega no solo se vea bien, sino que cumpla su propósito.",
+    "paragraph2": "No vendemos sitios web. Diseñamos herramientas digitales que aportan estructura, eficiencia y crecimiento.",
+    "team": {
+      "title": "Nuestro equipo integra:",
+      "developers": "Desarrolladores",
+      "developersDesc": "Especialistas en arquitectura, programación y rendimiento, enfocados en soluciones estables y escalables.",
+      "designers": "Diseñadores UX/UI",
+      "designersDesc": "Responsables de transformar procesos y objetivos en experiencias claras y funcionales.",
+      "pm": "Project Managers",
+      "pmDesc": "Organizan, coordinan y aseguran el cumplimiento de tiempos, alcance y prioridades.",
+      "qa": "QA Testers",
+      "qaDesc": "Validan cada funcionalidad para garantizar estabilidad, seguridad y correcto funcionamiento.",
+      "commercial": "Equipo comercial y estratégico",
+      "commercialDesc": "Alinea cada proyecto con objetivos reales de negocio."
+    }
+  },
+  "contact": {
+    "title": "¿Listo para crecer en serio?",
+    "subtitle": "Una llamada. Una estrategia. Resultados reales.",
+    "form": {
+      "name": "Nombre",
+      "email": "Email",
+      "company": "Empresa",
+      "phone": "Teléfono",
+      "service": "¿Qué servicio te interesa?",
+      "message": "Contanos sobre tu proyecto",
+      "submit": "Enviar mensaje",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado! Te contactamos pronto.",
+      "error": "Hubo un error. Intentá de nuevo."
+    },
+    "info": {
+      "title": "Información de contacto",
+      "email": "Email",
+      "phone": "Teléfono",
+      "location": "Ubicación",
+      "hours": "Horario de atención",
+      "hoursValue": "Lun - Vie: 9:00 - 18:00"
+    }
+  },
+  "footer": {
+    "rights": "© 2026 Alora. Todos los derechos reservados.",
+    "legal": "Términos",
+    "privacy": "Privacidad",
+    "blog": "Blog"
+  }
+}

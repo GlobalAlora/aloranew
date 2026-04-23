@@ -1,0 +1,93 @@
+{
+  "nav": {
+    "services": "Services",
+    "solutions": "Solutions",
+    "process": "Process",
+    "results": "Results",
+    "about": "About Us",
+    "projects": "Projects",
+    "clients": "Clients",
+    "testimonials": "Testimonials",
+    "blog": "Blog",
+    "faq": "FAQ",
+    "contact": "Contact"
+  },
+  "solutions": {
+    "webSystem": "Web System",
+    "woocommerce": "WooCommerce",
+    "landing": "Landing",
+    "infoWeb": "Info Website",
+    "webImprovements": "Web Improvements",
+    "ai": "AI"
+  },
+  "hero": {
+    "badge": "Tech B2B",
+    "tagline": "Technology that scales your business",
+    "headline": "Technology that converts.",
+    "subtitle": "We design, develop and scale digital solutions for companies that don't settle for average.",
+    "ctaPrimary": "Let's talk",
+    "ctaSecondary": "View services",
+    "trustedBy": "Trusted by"
+  },
+  "projects": {
+    "title": "Featured projects",
+    "subtitle": "Work that shows our quality standard",
+    "tabs": {
+      "webSystem": "Web System",
+      "woocommerce": "WooCommerce",
+      "landing": "Landing",
+      "infoWeb": "Info Website",
+      "webImprovements": "Web Improvements",
+      "ai": "AI"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "We're not just developers. We're a multidisciplinary team focused on building digital solutions that work in the real world.",
+    "paragraph1": "We work at the intersection of business and technology: we understand commercial objectives before writing a single line of code. Each project combines strategy, design, development and quality control to ensure that what we deliver not only looks good, but fulfills its purpose.",
+    "paragraph2": "We don't sell websites. We design digital tools that bring structure, efficiency and growth.",
+    "team": {
+      "title": "Our team includes:",
+      "developers": "Developers",
+      "developersDesc": "Specialists in architecture, programming and performance, focused on stable and scalable solutions.",
+      "designers": "UX/UI Designers",
+      "designersDesc": "Responsible for transforming processes and objectives into clear and functional experiences.",
+      "pm": "Project Managers",
+      "pmDesc": "Organize, coordinate and ensure compliance with times, scope and priorities.",
+      "qa": "QA Testers",
+      "qaDesc": "Validate each functionality to guarantee stability, security and proper operation.",
+      "commercial": "Commercial & Strategy Team",
+      "commercialDesc": "Aligns each project with real business objectives."
+    }
+  },
+  "contact": {
+    "title": "Ready to grow seriously?",
+    "subtitle": "One call. One strategy. Real results.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "phone": "Phone",
+      "service": "What service interests you?",
+      "message": "Tell us about your project",
+      "submit": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent! We'll contact you soon.",
+      "error": "There was an error. Please try again."
+    },
+    "info": {
+      "title": "Contact information",
+      "email": "Email",
+      "phone": "Phone",
+      "location": "Location",
+      "hours": "Business hours",
+      "hoursValue": "Mon - Fri: 9:00 - 18:00"
+    }
+  },
+  "footer": {
+    "rights": "© 2026 Alora. All rights reserved.",
+    "legal": "Terms",
+    "privacy": "Privacy",
+    "blog": "Blog"
+  }
+}
