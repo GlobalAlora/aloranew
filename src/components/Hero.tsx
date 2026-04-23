@@ -4,7 +4,7 @@ import { ScrubSequence } from "./ScrubSequence";
 import { BlurText } from "./BlurText";
 import { TechNetwork } from "./TechNetwork";
 import { Button } from "@/components/ui/button";
-import { FRAMES_PATH, FRAME_COUNT, FRAME_EXT, PARTNERS } from "@/lib/constants";
+import { FRAMES_PATH, FRAME_COUNT, FRAME_EXT, PARTNERS, ENABLE_SCRUB } from "@/lib/constants";
 
 type HeroProps = {
   scrollRef: React.RefObject<HTMLElement>;
@@ -12,7 +12,7 @@ type HeroProps = {
 
 export function Hero({ scrollRef }: HeroProps) {
   return (
-    <section ref={scrollRef} className="relative h-[250vh] bg-background">
+    <section ref={scrollRef} className="relative h-[150vh] bg-background">
       <div className="sticky top-0 h-screen w-full overflow-hidden">
         {/* Fallback tech network - visible when no frames loaded */}
         <div className="absolute inset-0 z-0">
@@ -29,13 +29,15 @@ export function Hero({ scrollRef }: HeroProps) {
           />
         </div>
 
-        <ScrubSequence
-          framesPath={FRAMES_PATH}
-          frameCount={FRAME_COUNT}
-          ext={FRAME_EXT}
-          scrollTargetRef={scrollRef}
-          className="absolute inset-0 w-full h-full z-[1]"
-        />
+        {ENABLE_SCRUB && (
+          <ScrubSequence
+            framesPath={FRAMES_PATH}
+            frameCount={FRAME_COUNT}
+            ext={FRAME_EXT}
+            scrollTargetRef={scrollRef}
+            className="absolute inset-0 w-full h-full z-[1]"
+          />
+        )}
 
         <div className="absolute inset-0 z-[2] bg-[radial-gradient(120%_80%_at_50%_60%,transparent_40%,rgba(0,0,0,0.65)_100%)]" />
 
